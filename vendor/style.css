@@ -1,0 +1,50 @@
+body{
+	background-image: url(http://haminekehast.ir/wp-content/uploads/2014/11/haminekehast...3.jpg);
+	background-size: 100% 100%;
+
+}
+
+.panel-title {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    color: inherit;
+    font-weight: bold;
+}
+
+.h1, h1 {
+    font-size: 36px;
+    color: white;
+}
+
+div.repeat:nth-child(6n+0):after {
+	display: table; 
+	content: " "; 
+	clear: both;
+}
+
+.row {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+/*movie-nav .list-inline>li {
+	padding: 10px 15px;
+
+}
+
+movie-nav .list-inline>li a {
+	font-size: large;
+	color: white;
+	font-weight: bold;
+}
+
+movie-nav .list-inline > li > a:hover { 
+	background-color: lightgrey;
+	text-decoration: none;
+}
+
+movie-nav .list-inline > li > a.active { 
+	background-color: #337AB7;
+	color: white;
+}*/
